@@ -1,0 +1,13 @@
+Package: AustinCats
+Title: Data on Austin Cats
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Functions and data pertaining to cat visits to 
+    Austin vets.
+Depends: R (>= 3.5.1)
+License: GPL-2
+Encoding: UTF-8
+Imports:
+    tidyverse
+LazyData: true
+RoxygenNote: 6.1.1
